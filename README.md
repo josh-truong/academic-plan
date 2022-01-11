@@ -129,11 +129,25 @@ Additional courses from the below list to bring the total number of computer sci
 
 
 ### Capstone
+Software Engineering Project (two semesters: beginning fall, ending spring):
+
+* [ ] CSCI 4308-4, Software Engineering Project 1
+* [ ] CSCI 4318-4, Software Engineering Project 2
+
+Or
 
 Entrepreneurial Project (two semesters: beginning fall, ending spring):
 
 * [ ] CSCI 4348-4, Startup Essentials: Entrepreneurial Projects 1 and 
 * [ ] CSCI 4358-4, Entrepreneurial Projects 2
+
+Or
+
+Senior Thesis
+
+CSCI 4950-4, Senior Thesis
+CSCI 4950-4, Senior Thesis
+CSCI 3100-1, Software and Society
 
 This sequence must be taken contiguously and may not be taken before the senior year. Prerequisites for Senior Project include the successful completion of the college writing requirement, as well as the Computer Science Foundation (24 credit hours) plus Computer Science Core and Elective courses to reach a minimum of 36 Computer Science credit hours.  
 
