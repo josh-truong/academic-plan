@@ -145,9 +145,9 @@ Or
 
 Senior Thesis
 
-CSCI 4950-4, Senior Thesis
-CSCI 4950-4, Senior Thesis
-CSCI 3100-1, Software and Society
+* [ ] CSCI 4950-4, Senior Thesis
+* [ ] CSCI 4950-4, Senior Thesis
+* [ ] CSCI 3100-1, Software and Society
 
 This sequence must be taken contiguously and may not be taken before the senior year. Prerequisites for Senior Project include the successful completion of the college writing requirement, as well as the Computer Science Foundation (24 credit hours) plus Computer Science Core and Elective courses to reach a minimum of 36 Computer Science credit hours.  
 
