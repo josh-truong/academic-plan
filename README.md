@@ -26,39 +26,39 @@ Personal coursework and schedule for University of Colorado Boulder
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | APPM 1350 – Calculus 1                      | 4   | APPM 1360 – Calculus 2                                          | 4   |
 | PHYS 1110 – Physics for Engineers           | 4   | PHYS 1120 – Physics 2 for Engineers                             | 4   |
-| CSCI 1000 – CS as A Field Of Study          | 1   | CSCI 2270 – Data Structures                                     | 4   |
-| CSCI 1300 – Computer Sci 1: Programming     | 4   | PSCI 2004 – Survey of Western Political Thought                 | 3   |
-| PSCI 1101 – Intro to American Politics      | 3   |                                                                 |     |
-|                                             | 16  |                                                                 | 15  |
+| CSCI 2830 – Special Topics Computing, Ethics and Society| 3   | CSCI 1300 – Starting Computing                      | 4   |
+| INFO 1201 – Computational Reasoning 1       | 3   | COEN - Calculus 2 Work Group                                    | 1   |
+|                                             | 14  |                                                                 | 13  |
 
 ### 2020-2021
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| CSCI 2400 – Computer Systems                | 4   | CSCI 3104 – Algorithms                                          | 4   |
-| CSCI 2824 – Discrete Structures             | 3   | CSCI 3022 – Data Science Algorithms                             | 3   |
-| CSCI 2270 – Linear Algebra w/ CS Applications| 3  | CSCI 3002 – Human-Centered Computing                            | 3   |
-| PHYS 1140 – Experimental Physics Lab        | 1   | PSYC 2145 - Introductory Cognitive Psychology                   | 3   |                            
-| PSYC 1001 - General Psychology              | 3   | INFO 3504 - Problems in Info Science: Digital Identity          | 3   |
-| CSCI 3308 – Software Dev & Tools            | 3   |                                                                 |     |
-|                                             | 17  |                                                                 | 16  |
+| CSCI 2270 – Data Structures                 | 4   | ASTR 1030 - Accel Intro Astronomy 1                             | 4   |
+| CSCI 2824 – Discrete Structures             | 3   | CSCI 2400 - Computer Systems                                    | 4   |
+| MATH 2130 - Linear Algebra for Non-Math Majors| 3  | CSCI 3022 - Intro to Data Science w/ Probability/Statistics    | 3   |
+| PHIL 1440 - Critical Thinking               | 3   | CSCI 3308 - Software Development Methods and Tools              | 3   |
+| PHYS 1140 – Experimental Physics Lab        | 1   |                                                                 |     |
+|                                             | 14  |                                                                 | 14  |
 
 ### 2021-2022
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| CSCI 3155 – Principles of Prog. Languages   | 4   | CSCI 3832 – Natural Language Processing                         | 3   |
-| CSCI 3202 – Artificial Intelligence         | 3   | ATLS 4214 – Big Data Architecture                               | 3   |
-| INFO 4604 - Applied Machine Learning        | 3   | PSCI 3225 - Strategy & Politics                                 | 3   |
-| WRTG 3030 - Writing on Science & Society    | 3   | GEOG 3742 - Place, Power,  Culture                              | 3   |
-| CSCI 3702 - Cognitive Science               | 3   |                                                                 |     |
-|                                             | 16  |                                                                 | 12  |
+| ASTR 1040 - Accel Intro Astronomy 2         | 4   | CSCI 3155 - Principles of Programming Languages                 | 4   |
+| CSCI 3104 - Algorithms                      | 4   | CSCI 3753 - Design and Analysis of Operating Systems            | 4   |
+| CSCI 3202 – Artificial Intelligence         | 3   | CSCI 4022 - Advance Data Science                                | 3   |
+| CSCI 3287 - Database Systems                | 3   | ATLS 4214 – Big Data Architecture                               | 3   |
+|                                             |     | WRTG 3035 - Technical Communication and Design                  | 3   |
+|                                             | 14  |                                                                 | 17  |
 
 ### 2022-2023
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| CSCI 4348 – Entrepreneurial Projects        | 4   | CSCI 4358 – Entrepreneurial Projects 2                          | 4   |
-| CSCI 4622 - Machine Learning                | 3   |                                                                 |     |
-| CSCI 4502 – Data Mining                     | 3   |                                                                 |     |
-| MUEL 2061 - Intro to Music Technology       | 3   |                                                                 |     | |                                             | 13  |                                                                 | 4   |
+|                                             |     |                                                                 |     |
+|                                             |     |                                                                 |     |
+|                                             |     |                                                                 |     |
+|                                             |     |                                                                 |     |
+|                                             |     |                                                                 |     |
+|                                             |     |                                                                 |     |
 
 * **College Total**: 114
 * **HS Transfer Credits**:30
@@ -72,13 +72,13 @@ Personal coursework and schedule for University of Colorado Boulder
 ### Foundation
 
 All of the following courses are required:
-* [ ] CSCI 1000-1, Computer Science as a Field of Work and Study
-* [ ] CSCI 1300-4, Computer Science 1: Starting Computing (or equivalent)
-* [ ] CSCI 2270-4, Computer Science 2: Data Structures
-* [ ] CSCI 2400-4, Computer Systems
-* [ ] CSCI 3104-4, Algorithms
-* [ ] CSCI 3155-4, Principles of Programming Languages
-* [ ] CSCI 3308-3, Software Development Methods and Tools
+* [x] CSCI 1000-1, Computer Science as a Field of Work and Study
+* [x] CSCI 1300-4, Computer Science 1: Starting Computing (or equivalent)
+* [x] CSCI 2270-4, Computer Science 2: Data Structures
+* [x] CSCI 2400-4, Computer Systems
+* [x] CSCI 3104-4, Algorithms
+* [x] CSCI 3155-4, Principles of Programming Languages
+* [x] CSCI 3308-3, Software Development Methods and Tools
 
 ### Core
 
