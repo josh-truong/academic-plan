@@ -79,27 +79,29 @@ All of the following courses are required:
 * [x] CSCI 3308-3, Software Development Methods and Tools
 
 ### Core
+⚠ = CORE
 
-Six of the following courses are required:
-* [ ] CSCI 3002-3, Human-Centered Computing Foundations/User-Centered Design & Development
+Complete six of the following core courses:
+* [ ] CSCI 3002-3, Human-Centered Computing Foundations/User-Centered Design & Development ⚠
 * [x] CSCI 3202-3, Introduction to Artificial Intelligence
 * [x] CSCI 3287-3, Design & Analysis of Data Systems
 * [ ] CSCI 3832-3, Natural Language Processing
-* [ ] CSCI 3302-3, Introduction to Robotics
-* [ ] CSCI 3434-3, Theory of Computation
-* [ ] CSCI 3656-3, Numerical Computation or APPM 4650, Intermediate Numerical Analysis 1 (only one of these will count towards the CSEN-BS)
+* [ ] CSCI 3302-3, Introduction to Robotics ⚠
+* [ ] CSCI 3403-4, Introduction to CyberSecurity ⚠
+* [ ] CSCI 3434-3, Theory of Computation ⚠
+* [ ] CSCI 3656-3, Numerical Computation or APPM 4650, Intermediate Numerical Analysis 1 (only one of these will count towards the CSEN-BS) ⚠
 * [ ] CSCI 3702-3, Cognitive Science
 * [x] CSCI 3753-4, Design & Analysis of Operating Systems
 * [ ] CSCI 4622-3, Machine Learning (theoretically will be offered as Core)
 * [ ] CSCI 4229-3, Computer Graphics
 * [ ] CSCI 4239-3, Advanced Computer Graphics
 * [ ] CSCI 4253-3, Datacenter Scale Computing
-* [ ] CSCI 4273-3, Network Systems
+* [ ] CSCI 4273-3, Network Systems ⚠
 * [ ] CSCI 4302-3, Advanced Robotics
 * [ ] CSCI 4314-3, Algorithms for Molecular Biology
 * [ ] CSCI 4413-3, Computer Security & Ethical Hacking
 * [ ] CSCI 4446-3, Chaotic Dynamics
-* [ ] CSCI 4448-3, Object-Oriented Analysis and Design
+* [ ] CSCI 4448-3, Object-Oriented Analysis and Design ⚠
 * [ ] CSCI 4502-3, Data Mining
 * [ ] CSCI 4555-3, Compiler Construction
 * [ ] CSCI 4576-4, High-Performance Scientific Computing 1
