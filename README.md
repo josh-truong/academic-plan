@@ -117,7 +117,7 @@ Six of the following courses are required:
  
 Additional courses from the below list to bring the total number of computer science credit hours to 58 or more.
 
-* [] ATLS 4120-3, Mobile Application Development (formerly offered as ATLS 4519 Special Topics: Mobile App Dev; only one of these will count toward the CSEN-BS) 
+* [ ] ATLS 4120-3, Mobile Application Development (formerly offered as ATLS 4519 Special Topics: Mobile App Dev; only one of these will count toward the CSEN-BS) 
 * [ ] INFO 3504-3, Problems in Information Science: Digital Identity
 * [ ] ATLS 4214-3, Big Data Architecture (formerly offered as CSCI 4830 Special Topics: Big Data or ATLS 4519 Special Topics: Big Data; only one of these will count toward the CSEN-BS)
 * [ ] CSCI 3112-1, Human-Centered Computing Professional Development
@@ -145,14 +145,14 @@ This sequence must be taken contiguously and may not be taken before the senior 
 
 Must take both courses:
 
-* [ ] APPM 1350-4, Calculus 1 for Engineers or MATH 1300-5, Calculus 1
-* [ ] APPM 1360-4, Calculus 2 for Engineers or MATH 2300-5, Calculus 2
+* [x] APPM 1350-4, Calculus 1 for Engineers or MATH 1300-5, Calculus 1
+* [x] APPM 1360-4, Calculus 2 for Engineers or MATH 2300-5, Calculus 2
 
 ### Discrete Math
 
 Take one of the following courses:
 
-* [ ] CSCI 2824-3, Discrete Structures
+* [x] CSCI 2824-3, Discrete Structures
 * [ ] ECEN 2703-3, Discrete Mathematics for Computer Engineers
 * [ ] APPM 3170-3, Discrete Applied Mathematics
 
@@ -161,7 +161,7 @@ Take one of the following courses:
 Take one of the following courses:
 
 * [ ] CSCI 2820-3, Linear Algebra with CS Applications
-* [ ] MATH 3130-3, Intro to Linear Algebra.
+* [x] MATH 3130-3, Intro to Linear Algebra.
 * [ ] APPM 3310-3, Matrix Methods and Applications.
 
 ### Probability or Stats
@@ -169,7 +169,7 @@ Take one of the following courses:
 Take one of the following courses:
 
 * [ ] APPM 4570-3, Statistical Methods
-* [ ] CSCI 3022-3, Data Science Algorithms (can count for probability/statistics requirement OR CS elective, but not both)
+* [x] CSCI 3022-3, Intro to Data Science w/ Probability/Statistics
 * [ ] APPM 3570-3, Applied Probability
 * [ ] APPM 4520-3, Introduction to Mathematical Statistics
 * [ ] CVEN 3227-3, Probability, Statistics and Decision
@@ -182,18 +182,16 @@ Take one of the following courses:
 ## Natural Science Requirements
 
 Your 17 hours must include:
-* [ ] PHYS1110-4 General Physics 1 (Calculus-based) REQUIRED
+* [x] PHYS1110-4 General Physics 1 (Calculus-based) REQUIRED
 
 Complete one of the following sequences:
-* [ ] PHYS 1120-4, General Physics 2 and PHYS 1140-1, Experimental Physics 1
+* [x] PHYS 1120-4, General Physics 2 and PHYS 1140-1, Experimental Physics 1
 * [ ] CHEN 1211-4, General Chemistry for Engineers and CHEM 1221-1, Engineering General Chemistry lab
 * [ ] CHEM 1113-4, General Chemistry 1 and CHEM 1114-1, Laboratory in General Chemistry 1 (Major restrictions may be enforced by Chemistry department.)
 
 Complete at least 8 additional hours of acceptable Natural Science electives to make the required 17 hours. Do not repeat any course(s) completed from the above science sequences. 
-* [ ] EBIO 1210-3, General Biology 1 (credits transferred from HS)
-* [ ] EBIO 1220-3, General Biology 2 (credits transferred from HS)
-* [ ] EBIO 1230-1, General Biology Laboratory 1 (credits transferred from HS)
-* [ ] EBIO 1240-1, General Biology Laboratory 2 (credits transferred from HS)
+* [x] ASTR 1030-4, Accel Intro Astronomy 1
+* [x] ASTR 1040-4, Accel Intro Astronomy 2
 
 ## Humanities Requirements
 
@@ -204,8 +202,8 @@ Three credits of approved writing:
 * [ ] HUEN 3100-3, Humanities for Engineers 1
 * [ ] PHYS 3050-3, Writing in Physics: Problem-Solving and Rhetoric
 
-* [ ] 6 upper-division humanities
-* [ ] 21 humanities
+* [ ] 6 upper-division humanities and social sciences
+* [x] 9 remaining humanities and social sciences (credits transferred from HS)
 At least six of the remaining 21 credit hours must be at the upper-division undergraduate level or above, i.e. numbered 3000 or above. Upper-division writing does not count towards this 6 credits of upper division coursework. See the College of Engineering and Applied Science H/SS requirements for a list of approved courses and more details.
 
 ## Free Electives
