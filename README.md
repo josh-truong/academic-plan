@@ -83,15 +83,16 @@ All of the following courses are required:
 
 Complete six of the following core courses:
 * [ ] CSCI 3002-3, Human-Centered Computing Foundations/User-Centered Design & Development ⚠
-* [x] CSCI 3202-3, Introduction to Artificial Intelligence
-* [x] CSCI 3287-3, Design & Analysis of Data Systems
+* [x] CSCI 3202-3, Introduction to Artificial Intelligence ⚠
+* [x] CSCI 3287-3, Design & Analysis of Data Systems ⚠
 * [ ] CSCI 3832-3, Natural Language Processing
 * [ ] CSCI 3302-3, Introduction to Robotics ⚠
 * [ ] CSCI 3403-4, Introduction to CyberSecurity ⚠
 * [ ] CSCI 3434-3, Theory of Computation ⚠
 * [ ] CSCI 3656-3, Numerical Computation or APPM 4650, Intermediate Numerical Analysis 1 (only one of these will count towards the CSEN-BS) ⚠
 * [ ] CSCI 3702-3, Cognitive Science
-* [x] CSCI 3753-4, Design & Analysis of Operating Systems
+* [x] CSCI 3753-4, Design & Analysis of Operating Systems ⚠
+* [ ] CSCI 4022-3, Advance Data Science ⚠
 * [ ] CSCI 4622-3, Machine Learning (theoretically will be offered as Core)
 * [ ] CSCI 4229-3, Computer Graphics
 * [ ] CSCI 4239-3, Advanced Computer Graphics
