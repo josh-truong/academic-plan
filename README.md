@@ -55,7 +55,7 @@ Personal coursework and schedule for University of Colorado Boulder
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | CSCI 3302 - Introduction to Robotics        | 3   | CSCI 3753 - Operating Systems                                   | 4   |
-|                                             |     |                                                                 |     |
+| CSCI 4448 - Object-Oriented Analysis/Design | 3   |                                                                 |     |
 |                                             |     |                                                                 |     |
 |                                             |     |                                                                 |     |
 |                                             |     |                                                                 |     |
@@ -64,7 +64,7 @@ Personal coursework and schedule for University of Colorado Boulder
 ### 2023-2024
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| CSCI 4448 - Object-Oriented Analysis/Design | 3   |                                                                 |     |
+|                                             |     |                                                                 |     |
 |                                             |     |                                                                 |     |
 |                                             |     |                                                                 |     |
 |                                             |     |                                                                 |     |
