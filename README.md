@@ -5,6 +5,7 @@ Personal coursework and schedule for University of Colorado Boulder
   * [2020-2021](#2020-2021)
   * [2021-2022](#2021-2022)
   * [2022-2023](#2022-2023)
+  * [2023-2024](#2023-2024)
 * [CS Requirements](#cs-requirements)
   * [Foundation](#foundation)
   * [Core](#core)
@@ -23,38 +24,47 @@ Personal coursework and schedule for University of Colorado Boulder
 
 ## Classes
 ### 2019-2020
-|                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
-|---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| APPM 1350 – Calculus 1                      | 4   | APPM 1360 – Calculus 2                                          | 4   |
-| PHYS 1110 – Physics for Engineers           | 4   | PHYS 1120 – Physics 2 for Engineers                             | 4   |
-| CSCI 2830 – Special Topics Computing, Ethics and Society| 3   | CSCI 1300 – Starting Computing                      | 4   |
-| INFO 1201 – Computational Reasoning 1       | 3   | COEN - Calculus 2 Work Group                                    | 1   |
-|                                             | 14  |                                                                 | 13  |
+|                Fall Semester                             | Hrs |                         Spring Semester                         | Hrs |
+|----------------------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
+| APPM 1350 – Calculus 1                                   | 4   | APPM 1360 – Calculus 2                                          | 4   |
+| PHYS 1110 – Physics for Engineers                        | 4   | PHYS 1120 – Physics 2 for Engineers                             | 4   |
+| CSCI 2830 – Special Topics Computing, Ethics and Society | 3   | CSCI 1300 – Starting Computing                                  | 4   |
+| INFO 1201 – Computational Reasoning 1                    | 3   | COEN - Calculus 2 Work Group                                    | 1   |
+|                                                          | 14  |                                                                 | 13  |
 
 ### 2020-2021
-|                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
-|---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| CSCI 2270 – Data Structures                 | 4   | ASTR 1030 - Accel Intro Astronomy 1                             | 4   |
-| CSCI 2824 – Discrete Structures             | 3   | CSCI 2400 - Computer Systems                                    | 4   |
-| MATH 2130 - Linear Algebra for Non-Math Majors| 3  | CSCI 3022 - Intro to Data Science w/ Probability/Statistics    | 3   |
-| PHIL 1440 - Critical Thinking               | 3   | CSCI 3308 - Software Development Methods and Tools              | 3   |
-| PHYS 1140 – Experimental Physics Lab        | 1   |                                                                 |     |
-|                                             | 14  |                                                                 | 14  |
+|                Fall Semester                   | Hrs |                         Spring Semester                         | Hrs |
+|------------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
+| CSCI 2270 – Data Structures                    | 4   | ASTR 1030 - Accel Intro Astronomy 1                             | 4   |
+| CSCI 2824 – Discrete Structures                | 3   | CSCI 2400 - Computer Systems                                    | 4   |
+| MATH 2130 - Linear Algebra for Non-Math Majors | 3   | CSCI 3022 - Intro to Data Science w/ Probability/Statistics     | 3   |
+| PHIL 1440 - Critical Thinking                  | 3   | CSCI 3308 - Software Development Methods and Tools              | 3   |
+| PHYS 1140 – Experimental Physics Lab           | 1   |                                                                 |     |
+|                                                | 14  |                                                                 | 14  |
 
 ### 2021-2022
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | ASTR 1040 - Accel Intro Astronomy 2         | 4   | CSCI 3155 - Principles of Programming Languages                 | 4   |
-| CSCI 3104 - Algorithms                      | 4   | CSCI 3753 - Design and Analysis of Operating Systems            | 4   |
-| CSCI 3202 – Artificial Intelligence         | 3   | CSCI 4022 - Advance Data Science                                | 3   |
-| CSCI 3287 - Database Systems                | 3   | ATLS 4214 – Big Data Architecture                               | 3   |
-|                                             |     | WRTG 3035 - Technical Communication and Design                  | 3   |
-|                                             | 14  |                                                                 | 17  |
+| CSCI 3104 - Algorithms                      | 4   | CSCI 4022 - Advance Data Science                                | 3   |
+| CSCI 3202 – Artificial Intelligence         | 3   | ATLS 4214 – Big Data Architecture                               | 3   |
+| CSCI 3287 - Database Systems                | 3   | WRTG 3035 - Technical Communication and Design                  | 3   |
+|                                             | 14  |                                                                 | 13  |
 
 ### 2022-2023
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
+| CSCI 3302 - Introduction to Robotics        | 3   | CSCI 3753 - Operating Systems                                   | 4   |
 |                                             |     |                                                                 |     |
+|                                             |     |                                                                 |     |
+|                                             |     |                                                                 |     |
+|                                             |     |                                                                 |     |
+|                                             |     |                                                                 |     |
+
+### 2023-2024
+|                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
+|---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
+| CSCI 4448 - Object-Oriented Analysis/Design | 3   |                                                                 |     |
 |                                             |     |                                                                 |     |
 |                                             |     |                                                                 |     |
 |                                             |     |                                                                 |     |
