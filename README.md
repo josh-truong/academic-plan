@@ -55,9 +55,9 @@ Personal coursework and schedule for University of Colorado Boulder
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | CSCI 3302 - Introduction to Robotics        | 3   | CSCI 3753 - Operating Systems                                   | 4   |
-| CSCI 4448 - Object-Oriented Analysis/Design | 3   |                                                                 |     |
-|                                             |     |                                                                 |     |
-|                                             |     |                                                                 |     |
+| CSCI 3403 - Introduction to CyberSecurity   | 4   |                                                                 |     |
+| CLAS 4110 - Greek and Roman Epic            | 3   |                                                                 |     |
+| CSCI 4448 - Object-Oriented Analysis/Design |     |                                                                 |     |
 |                                             |     |                                                                 |     |
 |                                             |     |                                                                 |     |
 
