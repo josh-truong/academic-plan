@@ -102,7 +102,7 @@ Complete six of the following core courses:
 * [ ] CSCI 3656-3, Numerical Computation or APPM 4650, Intermediate Numerical Analysis 1 (only one of these will count towards the CSEN-BS) ⚠
 * [ ] CSCI 3702-3, Cognitive Science
 * [x] CSCI 3753-4, Design & Analysis of Operating Systems ⚠
-* [ ] CSCI 4022-3, Advance Data Science
+* [x] CSCI 4022-3, Advance Data Science
 * [ ] CSCI 4622-3, Machine Learning (theoretically will be offered as Core)
 * [ ] CSCI 4229-3, Computer Graphics
 * [ ] CSCI 4239-3, Advanced Computer Graphics
