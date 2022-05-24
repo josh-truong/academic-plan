@@ -70,9 +70,9 @@ Personal coursework and schedule for University of Colorado Boulder
 |                                             |     |                                                                 |     |
 |                                             |     |                                                                 |     |
 
-* **College Total**: 
+* **College Total**: 82
 * **HS Transfer Credits**: 12
-* **Total Total**: 
+* **Total Total**: 94
 
 ## CS Requirements
 
