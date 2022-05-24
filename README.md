@@ -54,12 +54,11 @@ Personal coursework and schedule for University of Colorado Boulder
 ### 2022-2023
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| CSCI 3302 - Introduction to Robotics        | 3   |                                                                 |     |
+| CSCI 3302 - Introduction to Robotics        | 3   | CSCI 4448 - Object-Oriented Analysis/Design                     | 3   |
 | CSCI 3403 - Introduction to CyberSecurity   | 4   |                                                                 |     |
 | CLAS 4110 - Greek and Roman Epic            | 3   |                                                                 |     |
-| CSCI 4448 - Object-Oriented Analysis/Design |     |                                                                 |     |
 |                                             |     |                                                                 |     |
-|                                             |     |                                                                 |     |
+|                                             | 10  |                                                                 |     |
 
 ### 2023-2024
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
