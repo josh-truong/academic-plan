@@ -38,10 +38,11 @@ Personal coursework and schedule for University of Colorado Boulder
 | CSCI 2270 – Data Structures                    | 4   | ASTR 1030 - Accel Intro Astronomy 1                             | 4   |
 | CSCI 2824 – Discrete Structures                | 3   | CSCI 2400 - Computer Systems                                    | 4   |
 | MATH 2130 - Linear Algebra for Non-Math Majors | 3   | CSCI 3022 - Intro to Data Science w/ Probability/Statistics     | 3   |
-| PHIL 1440 - Critical Thinking                  | 3   | CSCI 3308 - Software Development Methods and Tools              | 3   |
+| PHIL 1440 - Critical Thinking                  | 3   | [CSCI 3308] - Software Development Methods and Tools              | 3   |
 | PHYS 1140 – Experimental Physics Lab           | 1   |                                                                 |     |
 |                                                | 14  |                                                                 | 14  |
 
+[CSCI 3308]: https://github.com/josh-truong/csci-3308
 ### 2021-2022
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
