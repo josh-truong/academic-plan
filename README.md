@@ -16,7 +16,7 @@ Personal coursework and schedule for University of Colorado Boulder
   * [Discrete](#discrete-math)
   * [Linear Algebra](#linear-algebra)
   * [Probability/Stats](#probability-or-statistics)
-* [Math Minor Requirements](#math-minor)
+* [Math Minor Requirements](#math-minor-requirements)
 * [Natural Science Requirements](#natural-science-requirements)
 * [College Writing](#college-writing)
 * [Humanities Requirements](#humanities-requirements)
@@ -205,8 +205,9 @@ Take one of the following courses:
 * [ ] ECON 3818-3, Introduction to Statistics w/ Computer Applications
 * [ ] MCEN 4120-3, Engineering Statistics
 
-### Math Minor Requirements
+## Math Minor Requirements
 
+Test
 
 
 ## Natural Science Requirements
