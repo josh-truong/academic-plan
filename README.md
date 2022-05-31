@@ -103,7 +103,7 @@ Complete six of the following core courses:
 * [ ] CSCI 3702-3, Cognitive Science
 * [ ] CSCI 3753-4, Design & Analysis of Operating Systems ⚠
 * [x] CSCI 4022-3, Advance Data Science
-* [ ] CSCI 4622-3, Machine Learning (theoretically will be offered as Core)
+* [x] CSCI 4622-3, Machine Learning (theoretically will be offered as Core)
 * [ ] CSCI 4229-3, Computer Graphics
 * [ ] CSCI 4239-3, Advanced Computer Graphics
 * [ ] CSCI 4253-3, Datacenter Scale Computing
