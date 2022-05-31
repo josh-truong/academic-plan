@@ -96,8 +96,8 @@ Complete six of the following core courses:
 * [x] CSCI 3202-3, Introduction to Artificial Intelligence ⚠
 * [x] CSCI 3287-3, Design & Analysis of Data Systems ⚠
 * [ ] CSCI 3832-3, Natural Language Processing
-* [ ] CSCI 3302-3, Introduction to Robotics ⚠
-* [ ] CSCI 3403-4, Introduction to CyberSecurity ⚠
+* [x] CSCI 3302-3, Introduction to Robotics ⚠
+* [x] CSCI 3403-4, Introduction to CyberSecurity ⚠
 * [ ] CSCI 3434-3, Theory of Computation ⚠
 * [ ] CSCI 3656-3, Numerical Computation or APPM 4650, Intermediate Numerical Analysis 1 (only one of these will count towards the CSEN-BS) ⚠
 * [ ] CSCI 3702-3, Cognitive Science
